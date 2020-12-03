@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/renanc-lima/" alt="Linkedin">
-  <img src="https://logospng.org/download/linkedin/logo-linkedin-1536.png"  min-width="400px" max-width="400px" width="400px" align="right" /></a>
+  <img src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" max-width="400px" width="400px" align="right" /></a>
 
   <!--<a href="https://www.facebook.com/iuricode/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/iuricode/"/></a>
